@@ -1,0 +1,22 @@
+V0.1:
+- Working character, enemy and bullet class-es.
+
+- Working shooting if space is pressed (have to press every time when player whant to shoot)
+
+- Only 1 small and 1 big enemy --> generate more enemy: small 10; big 2;
+
+- clean up code, check which parts can be integrated into one of the classes
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+V0.2:
+- 1 small, 1 medium, 1 big enemy is present and working
+
+- Player health is added. 3 lives, if collision happens with an enemy 1 health is substracted. 
+
+- Player health is darwn to the screen
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+V0.3:
+- 3 small, 2 medium, 1 big enemy is present and working with different health
+
+- helath asset pick up is possible -- need to find a proper sprite sheet!!
+
+- ammunation assset pick up is possible -> adds 10 bullet -> bullet number drawn to the screen
